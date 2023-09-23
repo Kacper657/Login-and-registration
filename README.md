@@ -16,7 +16,14 @@ A basic authentication system built in C++ Builder. This application allows user
 4. After logging in, you can view session details.
 
 **📸 Screenshots:**  
-*Add screenshots of the application here.*
+![1 unit](https://github.com/Kacper657/Login-and-registration/assets/127960359/0c7349f5-c198-4714-aeb2-c882804e817c)
+
+
+![2 unit](https://github.com/Kacper657/Login-and-registration/assets/127960359/0cd785e9-1df3-446b-8bbb-9158ab7e66af)
+
+
+![3 unit](https://github.com/Kacper657/Login-and-registration/assets/127960359/cb27864b-c8dd-4eb1-9c09-e857161075a4)
+
 
 **🔍 Requirements:**
 - 🖥 Operating system: Windows
